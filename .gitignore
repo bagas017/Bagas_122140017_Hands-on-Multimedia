@@ -1,0 +1,4 @@
+.venv_img/
+.venv_audio/
+multimedia-uv/
+shape_predictor_68_face_landmarks.dat
